@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I’m a backend developer passionate about building scalable, high-performance systems using Spring Boot, REST APIs, and PostgreSQL. I focus on clean architecture, secure authentication, and efficient data handling.<br><br>I enjoy designing and optimizing server-side systems, creating reliable APIs, and improving overall backend efficiency and scalability.<br><br>Always exploring microservices, Docker, and AWS to create efficient, production-ready systems.
+<br>I’m a backend developer passionate about building scalable, high-performance systems using Spring Boot, REST APIs, and PostgreSQL. I focus on clean architecture, secure authentication, and efficient data handling.<br><br>I enjoy designing and optimizing server-side systems, creating reliable APIs, and improving overall backend efficiency and scalability.<br><br>Always exploring microservices, Docker, and AWS to create efficient, production-ready systems.
 
 
 ## 🌐 Socials:
