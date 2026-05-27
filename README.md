@@ -68,7 +68,6 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | Project | Contribution | PR |
 |---|---|---|
 | **Jenkins** | Redirected `PluginWrapper` root URL requests to the `thirdPartyLicenses` view, fixing a 404 error when accessing plugin license information pages. | [#26029](https://github.com/jenkinsci/jenkins/pull/26029) |
-| **Jenkins Configuration as Code** | Added a secure HTTP POST endpoint to apply JCasC YAML directly from the request body. | [#2815](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2815) |
 | **Jenkins Configuration as Code** | Refactored setter resolution in `BaseConfigurator` to handle overloads deterministically and added extensive unit tests. | [#2825](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2825) |
 | **Apache Seata** | Replaced `synchronized` with `ReentrantLock` in saga modules to avoid virtual thread pinning. | [#8008](https://github.com/apache/incubator-seata/pull/8008) |
 | **Apache SkyWalking** | Enhanced MAL downsampling explanations by adding details for `MEAN` and `COUNT`. | [#13880](https://github.com/apache/skywalking/pull/13880) |
@@ -82,6 +81,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 |---|---|---|
 | **Jenkins Configuration as Code** | Refactored `GlobalConfigurationCategoryConfigurator.describe()` to remove raw types, replace redundant casts with generics, and keep behavior clean with a typed helper for `NOP`. | [#2835](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2835) |
 | **Jenkins Configuration as Code** | Derived descriptor names from the generic type when `@Symbol` is absent, including fallback handling and anonymous class support. | [#2834](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2834) |
+| **Jenkins Configuration as Code** | Added a secure HTTP POST endpoint to apply JCasC YAML directly from the request body. | [#2815](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2815) |
 | **Jenkins Configuration as Code** | Fixed unsafe casts in `DefaultConfiguratorRegistry` for collection types by resolving element types safely and adding broad generic test coverage. | [#2833](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2833) |
 | **Jenkins Configuration as Code** | Simplified map initialization in `SecretSourceResolver` and clarified `UpdateCenterConfigurator` behavior. | [#2832](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2832) |
 | **Jenkins Configuration as Code** | Improved the Configuration as Code management link, modernized error handling, and cleaned up YAML export logic. | [#2830](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2830) |
