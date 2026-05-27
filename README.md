@@ -19,7 +19,7 @@
 5. 💪 Opened PR [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
 <!--END_SECTION:activity-->
 
-## Software Engineer | Swift | SwiftUI | Java | Spring Boot | Microservices | AWS
+## Software Engineer | Swift | Spring Boot | AWS
 
 I am a third-year B.Tech student, Software Developer, and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
 
