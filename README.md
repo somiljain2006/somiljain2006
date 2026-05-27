@@ -7,6 +7,13 @@
   </a>
 </p>
 
+---
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Software Engineer | Swift | SwiftUI | Java | Spring Boot | Microservices | AWS
 
 I am a third-year B.Tech student, Software Developer, and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
