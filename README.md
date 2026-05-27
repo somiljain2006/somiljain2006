@@ -48,6 +48,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Jenkins** | Redirected `PluginWrapper` root URL requests to the `thirdPartyLicenses` view, fixing a 404 error when accessing plugin license information pages. | [PR #26029](https://github.com/jenkinsci/jenkins/pull/26029) |
 | **Jenkins Configuration as Code** | Refactored `GlobalConfigurationCategoryConfigurator.describe()` to remove raw types, replace redundant casts with generics, and keep behavior clean with a typed helper for `NOP`. | [PR #2835](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2835) |
 | **Jenkins Configuration as Code** | Derived descriptor names from the generic type when `@Symbol` is absent, including fallback handling and anonymous class support. | [PR #2834](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2834) |
 | **Jenkins Configuration as Code** | Fixed unsafe casts in `DefaultConfiguratorRegistry` for collection types by resolving element types safely and adding broad generic test coverage. | [PR #2833](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2833) |
