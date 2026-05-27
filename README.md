@@ -1,5 +1,9 @@
 # Hi, I'm Somil Jain 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=somiljain2006&label=Profile%20Views&color=brightgreen&style=flat-square" />
+</p>
+
 ## Software Engineer | Swift | SwiftUI | Java | Spring Boot | Microservices | AWS
 
 I am a third-year B.Tech student, Software Developer, and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
