@@ -2,7 +2,7 @@
 
 ## Software Engineer | Swift | SwiftUI | Java | Spring Boot | Microservices | AWS
 
-I am a Software Developer and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
+I am a third-year B.Tech student, Software Developer, and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
 
 My core expertise includes SwiftUI, Swift, Java, Spring Boot, Spring MVC, Spring Security, REST APIs, Hibernate, iOS Development, JWT, MySQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, CI/CD, and Distributed Systems.
 
