@@ -1,7 +1,10 @@
 # Hi, I'm Somil Jain 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=somiljain2006&label=Profile%20Views&color=brightgreen&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=somiljain2006&color=brightgreen&style=flat-square" />
+  <a href="https://stackoverflow.com/users/32096462/somil-jain">
+    <img src="https://stackoverflow-badge.vercel.app/?userID=32096462&theme=dark" height="20" />
+  </a>
 </p>
 
 ## Software Engineer | Swift | SwiftUI | Java | Spring Boot | Microservices | AWS
