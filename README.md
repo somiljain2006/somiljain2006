@@ -1,9 +1,176 @@
-# 💫 About Me:
-<br>I’m a backend developer passionate about building scalable, high-performance systems using Spring Boot, REST APIs, and PostgreSQL. I focus on clean architecture, secure authentication, and efficient data handling.<br><br>I enjoy designing and optimizing server-side systems, creating reliable APIs, and improving overall backend efficiency and scalability.<br><br>Always exploring microservices, Docker, and AWS to create efficient, production-ready systems.
+# Hi, I'm Somil Jain 👋
 
+## Software Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somil-jain-540819327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somil16022006@gmail.com)  
+I am a Software Developer and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+My core expertise includes SwiftUI, Swift, Java, Spring Boot, Spring MVC, Spring Security, REST APIs, Hibernate, iOS Development, JWT, MySQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, CI/CD, and Distributed Systems.
+
+Currently, I work as a Software Developer at Software Incubator, where I develop secure and scalable applications, improve system reliability, and contribute across both backend and iOS development. I work on building efficient APIs, optimizing application performance, and managing mobile applications using modern development practices and cloud-native technologies. I am also an active Open Source Contributor, contributing to projects focused on performance improvements, testing, developer tooling, and scalable system design.
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Open Source Contributions
+
+I actively contribute to open-source projects across the **Apache, Swift, and Jenkins ecosystems**.
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins_CasC-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Seata-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_SkyWalking-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### ✅ Merged Pull Requests
+
+| Project | Contribution | PR |
+|---|---|---|
+| **Jenkins Configuration as Code** | Refactored `GlobalConfigurationCategoryConfigurator.describe()` to remove raw types, replace redundant casts with generics, and keep behavior clean with a typed helper for `NOP`. | [PR #2835](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2835) |
+| **Jenkins Configuration as Code** | Derived descriptor names from the generic type when `@Symbol` is absent, including fallback handling and anonymous class support. | [PR #2834](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2834) |
+| **Jenkins Configuration as Code** | Fixed unsafe casts in `DefaultConfiguratorRegistry` for collection types by resolving element types safely and adding broad generic test coverage. | [PR #2833](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2833) |
+| **Jenkins Configuration as Code** | Simplified map initialization in `SecretSourceResolver` and clarified `UpdateCenterConfigurator` behavior. | [PR #2832](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2832) |
+| **Jenkins Configuration as Code** | Improved the Configuration as Code management link, modernized error handling, and cleaned up YAML export logic. | [PR #2830](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2830) |
+| **Jenkins Configuration as Code** | Fixed collection-based attribute handling by converting lists to the correct target collection type before invoking setters. | [PR #2829](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2829) |
+| **Jenkins Configuration as Code** | Refactored setter resolution in `BaseConfigurator` to handle overloads deterministically and added unit tests for edge cases. | [PR #2825](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2825) |
+| **Jenkins Configuration as Code** | Optimized secret detection with a `ClassValue` cache and improved performance across repeated configuration lookups. | [PR #2824](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2824) |
+| **Jenkins Configuration as Code** | Added certificate credential support and stronger assertions in `SystemCredentialsTest`. | [PR #2823](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2823) |
+| **Jenkins Configuration as Code** | Replaced a TODO in `secrets.adoc` with the published Jenkins security advisory reference. | [PR #2822](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2822) |
+| **Jenkins Configuration as Code** | Removed an outdated TODO related to label deletion behavior and kept local label definitions intact. | [PR #2821](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2821) |
+| **Jenkins Configuration as Code** | Added a secure HTTP POST endpoint to apply JCasC YAML directly from the request body. | [PR #2815](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2815) |
+| **Jenkins Configuration as Code** | Introduced strict secret resolution mode to fail fast on unresolved variables instead of silently using empty values. | [PR #2814](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2814) |
+| **Jenkins Configuration as Code** | Added a trim helper to remove trailing newlines from secrets during variable substitution. | [PR #2810](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2810) |
+| **Jenkins Configuration as Code** | Hardened `RootElementConfigurator` against failing `ManagementLink` implementations during initialization. | [PR #2807](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2807) |
+| **Jenkins Configuration as Code** | Resolved scalar values through `SecretSourceResolver` before descriptor lookup in `HeteroDescribableConfigurator`. | [PR #2805](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2805) |
+| **Jenkins Configuration as Code** | Improved error reporting by including YAML line numbers and attribute context in configuration failures. | [PR #2775](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2775) |
+| **Apache Seata** | Replaced `synchronized` with `ReentrantLock` in saga modules to avoid virtual thread pinning. | [PR #8008](https://github.com/apache/incubator-seata/pull/8008) |
+| **Apache Seata** | Returned `DO_NOT_PROXY` when the interceptor is not initialized to avoid `UnknownAdviceTypeException` during AOT processing. | [PR #8106](https://github.com/apache/incubator-seata/pull/8106) |
+| **Apache SkyWalking** | Enhanced MAL downsampling explanations by adding details for `MEAN` and `COUNT`. | [PR #13880](https://github.com/apache/skywalking/pull/13880) |
+
+### 🎯 Contribution Focus
+
+- Open-source infrastructure, automation, and developer tooling
+- Performance optimization, reliability improvements, and scalable system design
+- Configuration management, secure secret handling, and runtime stability
+- Test reliability, regression prevention, and maintainable code improvements
+- Observability, distributed systems, and cloud-native platform enhancements
+
+---
+
+## 🔧 Tech Stack
+
+### Backend & Platform Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Java_8/11/17/21/25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+- Java 8 / 11 / 17 / 21 / 25
+- Spring Boot, Spring MVC, Spring WebFlux, Spring Security, Spring Data
+- Microservices, REST APIs, API Design, Distributed Systems
+- Kafka, RabbitMQ, Redis
+- PostgreSQL, Cassandra, MySQL, TimescaleDB
+
+### Cloud, DevOps & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+
+- AWS, Docker, Kubernetes, OpenShift
+- Jenkins, GitHub Actions, CI/CD, Docker Compose
+- OpenTelemetry, Micrometer, Prometheus, Grafana
+- Logging, Metrics, Tracing, Production Debugging
+
+### AI/ML & Platform Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-017CEE?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-7B61FF?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+- RAG-based operational tooling and AI-assisted workflows
+- Embeddings, vector search, and retrieval pipelines
+- AI-powered platform tooling and intelligent automation
+- Prompt engineering and AI integration workflows
+- ML pipelines, anomaly detection, and feature engineering
+
+### iOS Development
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+- Swift, SwiftUI, UIKit
+- iOS application development and maintenance
+- REST API integration and mobile architecture
+- Swift Package Manager and modular development
+
+---
+
+## 🚀 What I Work On
+
+- Building scalable microservices and backend platforms
+- Developing secure REST APIs and enterprise integrations
+- Improving system reliability, observability, and production performance
+- Exploring AI/ML-enabled backend platforms and intelligent operational tooling
+- Practicing system design, DSA, and real-world engineering problem-solving
+
+---
+
+<!--
+## 🧠 Coding Practice
+
+- **LeetCode:** [codingkiddo](https://leetcode.com/u/codingkiddo/)
+---
+-->
+
+## 📌 Featured Focus Areas
+
+```text
+Swift | SwiftUI | Java | Spring Boot | Microservices | Kafka | AWS | Docker | Kubernetes | PostgreSQL | Cassandra | Redis | Distributed Systems
+System Design | Open Source | AI/ML Platform Engineering
