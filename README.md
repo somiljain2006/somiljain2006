@@ -44,11 +44,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10392](https://github.com/apache/rocketmq/pull/10392#issuecomment-4563736607) in [apache/rocketmq](https://github.com/apache/rocketmq)
-2. 🗣 Commented on [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123#issuecomment-4563727972) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-3. 🗣 Commented on [#8113](https://github.com/apache/incubator-seata/pull/8113#issuecomment-4563637599) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-4. 🗣 Commented on [#2846](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2846#issuecomment-4554595221) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 💪 Opened PR [#2846](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2846) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🗣 Commented on [#413](https://github.com/cbomkit/sonar-cryptography/pull/413#issuecomment-4577376227) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+2. ❌ Closed PR [#413](https://github.com/cbomkit/sonar-cryptography/pull/413) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+3. 🗣 Commented on [#10392](https://github.com/apache/rocketmq/pull/10392#issuecomment-4563736607) in [apache/rocketmq](https://github.com/apache/rocketmq)
+4. 🗣 Commented on [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123#issuecomment-4563727972) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
+5. 🗣 Commented on [#8113](https://github.com/apache/incubator-seata/pull/8113#issuecomment-4563637599) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
 ---
