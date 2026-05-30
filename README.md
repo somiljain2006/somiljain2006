@@ -98,6 +98,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Jenkins Configuration as Code** | Resolved scalar values through `SecretSourceResolver` before descriptor lookup in `HeteroDescribableConfigurator`. | [#2805](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2805) |
 | **Jenkins Configuration as Code** | Improved error reporting by including YAML line numbers and attribute context in configuration failures. | [#2775](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2775) |
 | **Apache Seata** | Returned `DO_NOT_PROXY` when the interceptor is not initialized to avoid `UnknownAdviceTypeException` during AOT processing. | [#8106](https://github.com/apache/incubator-seata/pull/8106) |
+| **Apache Seata** | Fixed Saga Designer export reliability issues, including download support, transition handling, and frontend asset loading. | [#8113](https://github.com/apache/incubator-seata/pull/8113) |
 
 </details>
 
