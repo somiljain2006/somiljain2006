@@ -99,6 +99,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Jenkins Configuration as Code** | Improved error reporting by including YAML line numbers and attribute context in configuration failures. | [#2775](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2775) |
 | **Apache Seata** | Returned `DO_NOT_PROXY` when the interceptor is not initialized to avoid `UnknownAdviceTypeException` during AOT processing. | [#8106](https://github.com/apache/incubator-seata/pull/8106) |
 | **Apache Seata** | Fixed Saga Designer export reliability issues, including download support, transition handling, and frontend asset loading. | [#8113](https://github.com/apache/incubator-seata/pull/8113) |
+| **Apache Seata** | Fixed Oracle rollback validation failures by replacing `SELECT *` with metadata-driven column selection, ensuring compatibility with invisible columns. | [#8118](https://github.com/apache/incubator-seata/pull/8118) |
 
 </details>
 
