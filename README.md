@@ -84,6 +84,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Jenkins Configuration as Code** | Added SonarQube Scanner tool installation examples and test coverage for validating scanner configuration via JCasC. | [#2849](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2849) |
 | **Jenkins Configuration as Code** | Added Locale Plugin demo configuration and integration tests to verify UI language settings via JCasC. | [#2848](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2848) |
 | **Jenkins Configuration as Code** | Fixed Windows CI JMH benchmark failures by enabling separate classpath JARs, allowing benchmark forks to run without command-line length limitations. | [#2846](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2846) |
 | **Jenkins Configuration as Code** | Fixed schema validation for `HeteroDescribable` configurators by generating schema definitions and validating nested attributes correctly, with regression test coverage. | [#2847](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2847) |
