@@ -84,6 +84,8 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Jenkins Configuration as Code** | Added Locale Plugin demo configuration and integration tests to verify UI language settings via JCasC. | [#2848](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2848) |
+| **Jenkins Configuration as Code** | Fixed Windows CI JMH benchmark failures by enabling separate classpath JARs, allowing benchmark forks to run without command-line length limitations. | [#2846](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2846) |
 | **Jenkins Configuration as Code** | Fixed schema validation for `HeteroDescribable` configurators by generating schema definitions and validating nested attributes correctly, with regression test coverage. | [#2847](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2847) |
 | **Jenkins Configuration as Code** | Refactored `GlobalConfigurationCategoryConfigurator.describe()` to remove raw types, replace redundant casts with generics, and keep behavior clean with a typed helper for `NOP`. | [#2835](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2835) |
 | **Jenkins Configuration as Code** | Derived descriptor names from the generic type when `@Symbol` is absent, including fallback handling and anonymous class support. | [#2834](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2834) |
