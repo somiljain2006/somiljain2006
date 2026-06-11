@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#465](https://github.com/cbomkit/sonar-cryptography/pull/465) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
-2. 🗣 Commented on [#45412](https://github.com/envoyproxy/envoy/pull/45412#issuecomment-4674279401) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-3. 💪 Opened PR [#30798](https://github.com/telegramdesktop/tdesktop/pull/30798) in [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
-4. 🎉 Merged PR [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-5. 🗣 Commented on [#465](https://github.com/cbomkit/sonar-cryptography/pull/465#issuecomment-4666635912) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+1. 💪 Opened PR [#18967](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/18967) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
+2. 🎉 Merged PR [#465](https://github.com/cbomkit/sonar-cryptography/pull/465) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+3. 🗣 Commented on [#45412](https://github.com/envoyproxy/envoy/pull/45412#issuecomment-4674279401) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+4. 💪 Opened PR [#30798](https://github.com/telegramdesktop/tdesktop/pull/30798) in [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+5. 🎉 Merged PR [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
 <!--END_SECTION:activity-->
 
 ---
