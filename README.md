@@ -72,6 +72,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Swift Package Manager** | Added validation to reject `.artifactbundle` directories used as normal targets, with clear diagnostics and regression test coverage. | [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123) |
 | **Swift Markdown** | Fixed HTML escaping in the HTML formatter to prevent text, inline code, and code blocks from being interpreted as HTML tags during rendering. | [#274](https://github.com/swiftlang/swift-markdown/pull/274) |
 | **Jenkins** | Redirected `PluginWrapper` root URL requests to the `thirdPartyLicenses` view, fixing a 404 error when accessing plugin license information pages. | [#26029](https://github.com/jenkinsci/jenkins/pull/26029) |
 | **Jenkins Configuration as Code** | Refactored setter resolution in `BaseConfigurator` to handle overloads deterministically and added extensive unit tests. | [#2825](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2825) |
