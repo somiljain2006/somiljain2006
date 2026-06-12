@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#468](https://github.com/cbomkit/sonar-cryptography/pull/468) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
-2. 🗣 Commented on [#45412](https://github.com/envoyproxy/envoy/pull/45412#issuecomment-4693271016) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-3. 💪 Opened PR [#10195](https://github.com/swiftlang/swift-package-manager/pull/10195) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-4. 💪 Opened PR [#276](https://github.com/swiftlang/swift-markdown/pull/276) in [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown)
-5. 🗣 Commented on [#2679](https://github.com/swiftlang/sourcekit-lsp/pull/2679#issuecomment-4687023460) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+1. 🗣 Commented on [#10195](https://github.com/swiftlang/swift-package-manager/pull/10195#issuecomment-4695156638) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
+2. 🗣 Commented on [#276](https://github.com/swiftlang/swift-markdown/pull/276#issuecomment-4695145746) in [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown)
+3. 🗣 Commented on [#30798](https://github.com/telegramdesktop/tdesktop/pull/30798#issuecomment-4695137569) in [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+4. 🗣 Commented on [#468](https://github.com/cbomkit/sonar-cryptography/pull/468#issuecomment-4695123204) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+5. 🗣 Commented on [#18967](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/18967#issuecomment-4695118685) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
 <!--END_SECTION:activity-->
 
 ---
