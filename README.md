@@ -87,6 +87,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Jenkins Configuration as Code** | Improved JCasC error reporting by identifying conflicting configuration keys for single-valued HeteroDescribable mappings. | [#2852](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2852) |
 | **Jenkins Configuration as Code** | Added Docker plugin, SSH agent configuration examples, and test coverage for validating SSH connector and key strategy support via JCasC. | [#2850](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2850) |
 | **Jenkins Configuration as Code** | Added SonarQube Scanner tool installation examples and test coverage for validating scanner configuration via JCasC. | [#2849](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2849) |
 | **Jenkins Configuration as Code** | Added Locale Plugin demo configuration and integration tests to verify UI language settings via JCasC. | [#2848](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2848) |
