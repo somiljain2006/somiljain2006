@@ -74,6 +74,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 |---|---|---|
 | **Swift Package Manager** | Added validation to reject `.artifactbundle` directories used as normal targets, with clear diagnostics and regression test coverage. | [#10123](https://github.com/swiftlang/swift-package-manager/pull/10123) |
 | **Swift Markdown** | Fixed HTML escaping in the HTML formatter to prevent text, inline code, and code blocks from being interpreted as HTML tags during rendering. | [#274](https://github.com/swiftlang/swift-markdown/pull/274) |
+| **Swift SourceKit-LSP** | Added a fallback to `relatedIdentifiers` when indexed references are unavailable, enabling `textDocument/references` to resolve local variables and parameters correctly. | [#2679](https://github.com/swiftlang/sourcekit-lsp/pull/2679) |
 | **Jenkins** | Redirected `PluginWrapper` root URL requests to the `thirdPartyLicenses` view, fixing a 404 error when accessing plugin license information pages. | [#26029](https://github.com/jenkinsci/jenkins/pull/26029) |
 | **Jenkins Configuration as Code** | Refactored setter resolution in `BaseConfigurator` to handle overloads deterministically and added extensive unit tests. | [#2825](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2825) |
 | **Apache Seata** | Replaced `synchronized` with `ReentrantLock` in saga modules to avoid virtual thread pinning. | [#8008](https://github.com/apache/incubator-seata/pull/8008) |
