@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1216](https://github.com/swiftlang/swift-format/pull/1216) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
-2. 🗣 Commented on [#2557](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2557#issuecomment-4703063896) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#2572](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2572#issuecomment-4702957111) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🎉 Merged PR [#2852](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2852) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. ❌ Closed PR [#30798](https://github.com/telegramdesktop/tdesktop/pull/30798) in [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)
+1. 🗣 Commented on [#1216](https://github.com/swiftlang/swift-format/pull/1216#issuecomment-4704500122) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
+2. 💪 Opened PR [#1216](https://github.com/swiftlang/swift-format/pull/1216) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
+3. 🗣 Commented on [#2557](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2557#issuecomment-4703063896) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#2572](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2572#issuecomment-4702957111) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🎉 Merged PR [#2852](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2852) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
