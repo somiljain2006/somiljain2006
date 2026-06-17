@@ -114,6 +114,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Apache Seata** | Fixed Oracle rollback validation failures by replacing `SELECT *` with metadata-driven column selection, ensuring compatibility with invisible columns. | [#8118](https://github.com/apache/incubator-seata/pull/8118) |
 | **Apache Seata** | Fixed incorrect primary key extraction in INSERT statements by properly tracking placeholders inside SQL function expressions. | [#8124](https://github.com/apache/incubator-seata/pull/8124) |
 | **Sonar Cryptography** | Improved block cipher asset deduplication for Bouncy Castle constructions, enhancing algorithm resolution and merge handling. | [#465](https://github.com/cbomkit/sonar-cryptography/pull/465) |
+| **Sonar Cryptography** | Added regression coverage to prevent duplicate findings in Bouncy Castle OAEP constructions. | [#468](https://github.com/cbomkit/sonar-cryptography/pull/468) |
 
 </details>
 
