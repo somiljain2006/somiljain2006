@@ -45,9 +45,9 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45412](https://github.com/envoyproxy/envoy/pull/45412#issuecomment-4724087276) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
-2. 🎉 Merged PR [#18967](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/18967) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
-3. 🗣 Commented on [#1660](https://github.com/apple/container/pull/1660#issuecomment-4719465404) in [apple/container](https://github.com/apple/container)
+1. 🗣 Commented on [#2557](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2557#issuecomment-4703063896) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 🗣 Commented on [#2572](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2572#issuecomment-4702957111) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 🗣 Commented on [#2647](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2647#issuecomment-4694999308) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 4. 🗣 Commented on [#1660](https://github.com/apple/container/pull/1660#issuecomment-4713190053) in [apple/container](https://github.com/apple/container)
 5. 💪 Opened PR [#1218](https://github.com/swiftlang/swift-format/pull/1218) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
 <!--END_SECTION:activity-->
