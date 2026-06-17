@@ -80,6 +80,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Apache Seata** | Replaced `synchronized` with `ReentrantLock` in saga modules to avoid virtual thread pinning. | [#8008](https://github.com/apache/incubator-seata/pull/8008) |
 | **Apache SkyWalking** | Enhanced MAL downsampling explanations by adding details for `MEAN` and `COUNT`. | [#13880](https://github.com/apache/skywalking/pull/13880) |
 | **Sonar Cryptography** | Fixed dictionary subscription resolution through function parameters, enabling correct lookup of cryptographic values. | [#457](https://github.com/cbomkit/sonar-cryptography/pull/457) |
+| **OpenTelemetry Java Instrumentation** | Updated JVM GC metrics instrumentation to always capture the `jvm.gc.cause` attribute under stable JVM semantic conventions. | [#18967](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/18967) |
 
 <details>
 <summary><b>📦 View More Open Source Contributions</b></summary>
