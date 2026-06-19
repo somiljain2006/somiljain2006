@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#470](https://github.com/cbomkit/sonar-cryptography/pull/470) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
-2. 🗣 Commented on [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213#issuecomment-4746165776) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-3. 🗣 Commented on [#1218](https://github.com/swiftlang/swift-format/pull/1218#issuecomment-4744913944) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
-4. 💪 Opened PR [#2694](https://github.com/swiftlang/sourcekit-lsp/pull/2694) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-5. 🗣 Commented on [#1218](https://github.com/swiftlang/swift-format/pull/1218#issuecomment-4737650245) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
+1. 🗣 Commented on [#19048](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19048#issuecomment-4754100536) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
+2. 💪 Opened PR [#470](https://github.com/cbomkit/sonar-cryptography/pull/470) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+3. 🗣 Commented on [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213#issuecomment-4746165776) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
+4. 🗣 Commented on [#1218](https://github.com/swiftlang/swift-format/pull/1218#issuecomment-4744913944) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
+5. 💪 Opened PR [#2694](https://github.com/swiftlang/sourcekit-lsp/pull/2694) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
 <!--END_SECTION:activity-->
 
 ---
