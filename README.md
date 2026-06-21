@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19048](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19048#issuecomment-4754100536) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
-2. 💪 Opened PR [#470](https://github.com/cbomkit/sonar-cryptography/pull/470) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
-3. 🗣 Commented on [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213#issuecomment-4746165776) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-4. 🗣 Commented on [#1218](https://github.com/swiftlang/swift-format/pull/1218#issuecomment-4744913944) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
-5. 💪 Opened PR [#2694](https://github.com/swiftlang/sourcekit-lsp/pull/2694) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+1. 🎉 Merged PR [#2854](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2854) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 🗣 Commented on [#19048](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19048#issuecomment-4754100536) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
+3. 💪 Opened PR [#470](https://github.com/cbomkit/sonar-cryptography/pull/470) in [cbomkit/sonar-cryptography](https://github.com/cbomkit/sonar-cryptography)
+4. 🗣 Commented on [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213#issuecomment-4746165776) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
+5. 🗣 Commented on [#1218](https://github.com/swiftlang/swift-format/pull/1218#issuecomment-4744913944) in [swiftlang/swift-format](https://github.com/swiftlang/swift-format)
 <!--END_SECTION:activity-->
 
 ---
