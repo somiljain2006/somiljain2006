@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
-2. 🎉 Merged PR [#2855](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2855) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#38810](https://github.com/apache/shardingsphere/pull/38810#issuecomment-4756671294) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-4. 🎉 Merged PR [#2853](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2853) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 💪 Opened PR [#2855](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2855) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 💪 Opened PR [#19048](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19048) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
+2. 🎉 Merged PR [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213) in [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager)
+3. 🎉 Merged PR [#2855](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2855) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#38810](https://github.com/apache/shardingsphere/pull/38810#issuecomment-4756671294) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+5. 🎉 Merged PR [#2853](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2853) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
