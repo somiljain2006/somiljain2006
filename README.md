@@ -90,6 +90,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | Project | Contribution | PR |
 |---|---|---|
 | **Swift Markdown** | Replaced recursive Markdown AST conversion with an iterative parser implementation, preventing stack overflows when parsing deeply nested Markdown documents. | [#276](https://github.com/swiftlang/swift-markdown/pull/276) |
+| **Jenkins Configuration as Code** | Clarified `readFile` whitespace handling and showed how to use `trim` for file-based secrets. | [#2855](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2855) |
 | **Jenkins Configuration as Code** | Clarified Job DSL `file:` directive behavior, added nested folder examples, and added regression tests for job creation within folder hierarchies. | [#2854](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2854) |
 | **Jenkins Configuration as Code** | Reduced unnecessary JCasC log noise by lowering warnings for ignored abstract non-Describable attributes to debug-level logging while preserving diagnostic information. | [#2853](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2853) |
 | **Jenkins Configuration as Code** | Improved JCasC error reporting by identifying conflicting configuration keys for single-valued HeteroDescribable mappings. | [#2852](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2852) |
