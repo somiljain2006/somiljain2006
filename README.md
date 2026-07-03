@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/jenkinsci/scriptler-plugin/pull/193) in [jenkinsci/scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin)
-2. 🗣 Commented on [#2511](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2511#issuecomment-4864998155) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🎉 Merged PR [#2859](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2859) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#38810](https://github.com/apache/shardingsphere/pull/38810#issuecomment-4858131366) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-5. 🗣 Commented on [#253](https://github.com/swiftlang/swift-markdown/issues/253#issuecomment-4858057382) in [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown)
+1. 💪 Opened PR [#282](https://github.com/swiftlang/swift-markdown/pull/282) in [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown)
+2. ❌ Closed PR [#1566](https://github.com/riscv/riscv-arch-test/pull/1566) in [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test)
+3. 💪 Opened PR [#193](https://github.com/jenkinsci/scriptler-plugin/pull/193) in [jenkinsci/scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin)
+4. 🗣 Commented on [#2511](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2511#issuecomment-4864998155) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🎉 Merged PR [#2859](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2859) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
