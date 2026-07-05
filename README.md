@@ -210,16 +210,6 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 ---
 
-## 🚀 What I Work On
-
-- Building scalable microservices and backend platforms
-- Developing secure REST APIs and enterprise integrations
-- Improving system reliability, observability, and production performance
-- Exploring AI/ML-enabled backend platforms and intelligent operational tooling
-- Practicing system design, DSA, and real-world engineering problem-solving
-
----
-
 <!--
 ## 🧠 Coding Practice
 
