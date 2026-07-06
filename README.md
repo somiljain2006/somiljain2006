@@ -140,6 +140,22 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 ## 🔧 Tech Stack
 
+### iOS Development
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+- Swift, SwiftUI, UIKit
+- iOS application development and maintenance
+- REST API integration and mobile architecture
+- Swift Package Manager and modular development
+
 ### Backend & Platform Engineering
 
 <p>
@@ -192,22 +208,6 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 - AI-powered platform tooling and intelligent automation
 - Prompt engineering and AI integration workflows
 - ML pipelines, anomaly detection, and feature engineering
-
-### iOS Development
-
-<p>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift_Package_Manager-FA7343?style=flat-square&logo=swift&logoColor=white" />
-</p>
-
-- Swift, SwiftUI, UIKit
-- iOS application development and maintenance
-- REST API integration and mobile architecture
-- Swift Package Manager and modular development
 
 ---
 
