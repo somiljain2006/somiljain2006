@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2865](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2865) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 🗣 Commented on [#38990](https://github.com/apache/shardingsphere/pull/38990#issuecomment-4903126847) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-3. 🗣 Commented on [#2290](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2290#issuecomment-4902382466) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#2457](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2457#issuecomment-4902340251) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🗣 Commented on [#2292](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2292#issuecomment-4902265353) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 💪 Opened PR [#2711](https://github.com/swiftlang/sourcekit-lsp/pull/2711) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. 🗣 Commented on [#2710](https://github.com/swiftlang/sourcekit-lsp/pull/2710#issuecomment-4907120589) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+3. ❌ Closed PR [#2710](https://github.com/swiftlang/sourcekit-lsp/pull/2710) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+4. 💪 Opened PR [#2865](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2865) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🗣 Commented on [#38990](https://github.com/apache/shardingsphere/pull/38990#issuecomment-4903126847) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 <!--END_SECTION:activity-->
 
 ---
