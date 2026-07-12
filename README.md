@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2865](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2865#issuecomment-4946199355) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 💪 Opened PR [#665](https://github.com/jenkinsci/priority-sorter-plugin/pull/665) in [jenkinsci/priority-sorter-plugin](https://github.com/jenkinsci/priority-sorter-plugin)
-3. 🎉 Merged PR [#2867](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2867) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 💪 Opened PR [#2867](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2867) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 💪 Opened PR [#195](https://github.com/jenkinsci/scriptler-plugin/pull/195) in [jenkinsci/scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin)
+1. 💪 Opened PR [#473](https://github.com/swiftlang/swift-book/pull/473) in [swiftlang/swift-book](https://github.com/swiftlang/swift-book)
+2. 🗣 Commented on [#2865](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2865#issuecomment-4949925725) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 🗣 Commented on [#2865](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2865#issuecomment-4946199355) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 💪 Opened PR [#665](https://github.com/jenkinsci/priority-sorter-plugin/pull/665) in [jenkinsci/priority-sorter-plugin](https://github.com/jenkinsci/priority-sorter-plugin)
+5. 🎉 Merged PR [#2867](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2867) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
