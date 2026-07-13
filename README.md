@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#473](https://github.com/swiftlang/swift-book/pull/473#issuecomment-4959788730) in [swiftlang/swift-book](https://github.com/swiftlang/swift-book)
-2. 🗣 Commented on [#17370](https://github.com/kestra-io/kestra/issues/17370#issuecomment-4957996512) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-3. 🎉 Merged PR [#17371](https://github.com/kestra-io/kestra/pull/17371) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-4. 🗣 Commented on [#17354](https://github.com/kestra-io/kestra/issues/17354#issuecomment-4955239081) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-5. 💪 Opened PR [#17371](https://github.com/kestra-io/kestra/pull/17371) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+1. 🗣 Commented on [#38990](https://github.com/apache/shardingsphere/pull/38990#issuecomment-4963531193) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+2. 🗣 Commented on [#473](https://github.com/swiftlang/swift-book/pull/473#issuecomment-4959788730) in [swiftlang/swift-book](https://github.com/swiftlang/swift-book)
+3. 🗣 Commented on [#17370](https://github.com/kestra-io/kestra/issues/17370#issuecomment-4957996512) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+4. 🎉 Merged PR [#17371](https://github.com/kestra-io/kestra/pull/17371) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+5. 🗣 Commented on [#17354](https://github.com/kestra-io/kestra/issues/17354#issuecomment-4955239081) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
 
 ---
