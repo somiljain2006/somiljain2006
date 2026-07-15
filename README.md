@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7840](https://github.com/liquibase/liquibase/pull/7840) in [liquibase/liquibase](https://github.com/liquibase/liquibase)
-2. 💪 Opened PR [#7399](https://github.com/questdb/questdb/pull/7399) in [questdb/questdb](https://github.com/questdb/questdb)
-3. 🗣 Commented on [#17405](https://github.com/kestra-io/kestra/issues/17405#issuecomment-4968423381) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-4. 🎉 Merged PR [#17406](https://github.com/kestra-io/kestra/pull/17406) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
-5. 💪 Opened PR [#17406](https://github.com/kestra-io/kestra/pull/17406) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
+1. ❌ Closed PR [#38990](https://github.com/apache/shardingsphere/pull/38990) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+2. 🗣 Commented on [#38990](https://github.com/apache/shardingsphere/pull/38990#issuecomment-4984276774) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+3. 💪 Opened PR [#7840](https://github.com/liquibase/liquibase/pull/7840) in [liquibase/liquibase](https://github.com/liquibase/liquibase)
+4. 💪 Opened PR [#7399](https://github.com/questdb/questdb/pull/7399) in [questdb/questdb](https://github.com/questdb/questdb)
+5. 🗣 Commented on [#17405](https://github.com/kestra-io/kestra/issues/17405#issuecomment-4968423381) in [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--END_SECTION:activity-->
 
 ---
