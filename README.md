@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37504](https://github.com/apache/shardingsphere/issues/37504#issuecomment-5000379904) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-2. 🗣 Commented on [#39161](https://github.com/apache/shardingsphere/pull/39161#issuecomment-4991840533) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-3. 💪 Opened PR [#39161](https://github.com/apache/shardingsphere/pull/39161) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-4. 💪 Opened PR [#32680](https://github.com/yugabyte/yugabyte-db/pull/32680) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-5. ❌ Closed PR [#38990](https://github.com/apache/shardingsphere/pull/38990) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+1. 🗣 Commented on [#19759](https://github.com/crate/crate/pull/19759#issuecomment-5007148181) in [crate/crate](https://github.com/crate/crate)
+2. 💪 Opened PR [#19759](https://github.com/crate/crate/pull/19759) in [crate/crate](https://github.com/crate/crate)
+3. 🗣 Commented on [#37504](https://github.com/apache/shardingsphere/issues/37504#issuecomment-5000379904) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+4. 🗣 Commented on [#39161](https://github.com/apache/shardingsphere/pull/39161#issuecomment-4991840533) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+5. 💪 Opened PR [#39161](https://github.com/apache/shardingsphere/pull/39161) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 <!--END_SECTION:activity-->
 
 ---
