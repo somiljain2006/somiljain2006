@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2138](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2138#issuecomment-5055884728) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 🗣 Commented on [#2151](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2151#issuecomment-5054296497) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#2175](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2175#issuecomment-5054273450) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#2503](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2503#issuecomment-5054240284) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. ❌ Closed PR [#2777](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2777) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#2711](https://github.com/swiftlang/sourcekit-lsp/pull/2711) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. 💪 Opened PR [#2873](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2873) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 🗣 Commented on [#2136](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2136#issuecomment-5056116993) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#2138](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2138#issuecomment-5055884728) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🗣 Commented on [#2151](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2151#issuecomment-5054296497) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
