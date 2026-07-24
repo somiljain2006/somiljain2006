@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2874](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2874) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 🗣 Commented on [#2009](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2009#issuecomment-5064246109) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#2016](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2016#issuecomment-5064227313) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#2019](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2019#issuecomment-5064065381) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🗣 Commented on [#2059](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2059#issuecomment-5064043458) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#2874](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2874) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#2874](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2874) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 🗣 Commented on [#2009](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2009#issuecomment-5064246109) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#2016](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2016#issuecomment-5064227313) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🗣 Commented on [#2019](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2019#issuecomment-5064065381) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
