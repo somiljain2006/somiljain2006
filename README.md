@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2876](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2876#issuecomment-5083830792) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-2. 💪 Opened PR [#2877](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2877) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#311](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/311#issuecomment-5083053732) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
-4. ❌ Closed PR [#2876](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2876) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🗣 Commented on [#2876](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2876#issuecomment-5082764116) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#2877](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2877) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 🗣 Commented on [#2876](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2876#issuecomment-5083830792) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 💪 Opened PR [#2877](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2877) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#311](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/311#issuecomment-5083053732) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
+5. ❌ Closed PR [#2876](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2876) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
