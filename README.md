@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19805](https://github.com/crate/crate/pull/19805) in [crate/crate](https://github.com/crate/crate)
-2. 💪 Opened PR [#2881](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2881) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🎉 Merged PR [#2878](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2878) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 💪 Opened PR [#2878](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2878) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🎉 Merged PR [#2877](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2877) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🗣 Commented on [#2881](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2881#issuecomment-5101024740) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5100936446) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+3. 🗣 Commented on [#8127](https://github.com/apache/incubator-seata/pull/8127#issuecomment-5100855115) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
+4. 💪 Opened PR [#19805](https://github.com/crate/crate/pull/19805) in [crate/crate](https://github.com/crate/crate)
+5. 💪 Opened PR [#2881](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2881) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
