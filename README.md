@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#473](https://github.com/swiftlang/swift-book/pull/473#issuecomment-5111713335) in [swiftlang/swift-book](https://github.com/swiftlang/swift-book)
-2. 🗣 Commented on [#2881](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2881#issuecomment-5101024740) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5100936446) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-4. 🗣 Commented on [#8127](https://github.com/apache/incubator-seata/pull/8127#issuecomment-5100855115) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
-5. 💪 Opened PR [#19805](https://github.com/crate/crate/pull/19805) in [crate/crate](https://github.com/crate/crate)
+1. 🎉 Merged PR [#19805](https://github.com/crate/crate/pull/19805) in [crate/crate](https://github.com/crate/crate)
+2. 🗣 Commented on [#473](https://github.com/swiftlang/swift-book/pull/473#issuecomment-5111713335) in [swiftlang/swift-book](https://github.com/swiftlang/swift-book)
+3. 🗣 Commented on [#2881](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2881#issuecomment-5101024740) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5100936446) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+5. 🗣 Commented on [#8127](https://github.com/apache/incubator-seata/pull/8127#issuecomment-5100855115) in [apache/incubator-seata](https://github.com/apache/incubator-seata)
 <!--END_SECTION:activity-->
 
 ---
