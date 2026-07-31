@@ -45,11 +45,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5135007752) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-2. 🗣 Commented on [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731#issuecomment-5129647892) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-3. 🗣 Commented on [#19048](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/19048#issuecomment-5121944493) in [open-telemetry/opentelemetry-java-instrumentation](https://github.com/open-telemetry/opentelemetry-java-instrumentation)
-4. 💪 Opened PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
-5. 🎉 Merged PR [#19805](https://github.com/crate/crate/pull/19805) in [crate/crate](https://github.com/crate/crate)
+1. 💪 Opened PR [#749](https://github.com/jenkinsci/cloudbees-folder-plugin/pull/749) in [jenkinsci/cloudbees-folder-plugin](https://github.com/jenkinsci/cloudbees-folder-plugin)
+2. 🗣 Commented on [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731#issuecomment-5139344976) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+3. 💪 Opened PR [#782](https://github.com/jenkinsci/workflow-job-plugin/pull/782) in [jenkinsci/workflow-job-plugin](https://github.com/jenkinsci/workflow-job-plugin)
+4. ❌ Closed PR [#45412](https://github.com/envoyproxy/envoy/pull/45412) in [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+5. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5135007752) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 <!--END_SECTION:activity-->
 
 ---
