@@ -15,8 +15,6 @@
 
 I am a third-year B.Tech student, Software Developer, and Open Source Contributor with experience building scalable software solutions, developing secure and high-performance applications, and working across backend, cloud-native, and mobile technologies.
 
-My core expertise includes SwiftUI, Swift, Java, Spring Boot, Spring MVC, Spring Security, REST APIs, Hibernate, iOS Development, JWT, MySQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, CI/CD, and Distributed Systems.
-
 Currently, I work as a Software Developer at Software Incubator, where I develop secure and scalable applications, improve system reliability, and contribute across both backend and iOS development.  I am also an active Open Source Contributor, contributing to projects focused on performance improvements, testing, developer tooling, and scalable system design.
 
 <p>
