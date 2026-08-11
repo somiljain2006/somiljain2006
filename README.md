@@ -79,6 +79,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Jenkins** | Redirected `PluginWrapper` root URL requests to the `thirdPartyLicenses` view, fixing a 404 error when accessing plugin license information pages. | [#26029](https://github.com/jenkinsci/jenkins/pull/26029) |
 | **Jenkins Configuration as Code** | Refactored setter resolution in `BaseConfigurator` to handle overloads deterministically and added extensive unit tests. | [#2825](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2825) |
 | **Jenkins Scriptler Plugin** | Added Configuration as Code support, enabling import/export of Scriptler settings and scripts with persistent script storage. | [#193](https://github.com/jenkinsci/scriptler-plugin/pull/193) |
+| **Apache Pulsar** | Removed non-functional metadata ledger configuration fields and their unused accessors, eliminating dead code and misleading configuration options. | [#26293](https://github.com/apache/pulsar/pull/26293) |
 | **Apache ShardingSphere** | Aligned `lastInsertId` behavior with MySQL by ignoring explicit auto-increment values in `INSERT` statements. | [#38810](https://github.com/apache/shardingsphere/pull/38810) |
 | **Apache Seata** | Replaced `synchronized` with `ReentrantLock` in saga modules to avoid virtual thread pinning. | [#8008](https://github.com/apache/incubator-seata/pull/8008) |
 | **Apache SkyWalking** | Enhanced MAL downsampling explanations by adding details for `MEAN` and `COUNT`. | [#13880](https://github.com/apache/skywalking/pull/13880) |
