@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/jenkinsci/scriptler-plugin/pull/195) in [jenkinsci/scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin)
-2. 🎉 Merged PR [#2887](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2887) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🎉 Merged PR [#26293](https://github.com/apache/pulsar/pull/26293) in [apache/pulsar](https://github.com/apache/pulsar)
-4. 💪 Opened PR [#4254](https://github.com/flowable/flowable-engine/pull/4254) in [flowable/flowable-engine](https://github.com/flowable/flowable-engine)
-5. 💪 Opened PR [#26293](https://github.com/apache/pulsar/pull/26293) in [apache/pulsar](https://github.com/apache/pulsar)
+1. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5259306267) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+2. 🎉 Merged PR [#195](https://github.com/jenkinsci/scriptler-plugin/pull/195) in [jenkinsci/scriptler-plugin](https://github.com/jenkinsci/scriptler-plugin)
+3. 🎉 Merged PR [#2887](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2887) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🎉 Merged PR [#26293](https://github.com/apache/pulsar/pull/26293) in [apache/pulsar](https://github.com/apache/pulsar)
+5. 💪 Opened PR [#4254](https://github.com/flowable/flowable-engine/pull/4254) in [flowable/flowable-engine](https://github.com/flowable/flowable-engine)
 <!--END_SECTION:activity-->
 
 ---
