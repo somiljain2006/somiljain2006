@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
-2. 💪 Opened PR [#2888](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2888) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 🎉 Merged PR [#311](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/311) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
-4. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5262515553) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-5. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5259306267) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+1. ❌ Closed PR [#2888](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2888) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
+3. 💪 Opened PR [#2888](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2888) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🎉 Merged PR [#311](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/311) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
+5. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5262515553) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 <!--END_SECTION:activity-->
 
 ---
