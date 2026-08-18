@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
-2. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5301321854) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-3. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5301004173) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-4. 🗣 Commented on [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731#issuecomment-5281887461) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-5. 💪 Opened PR [#2890](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2890) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. 🎉 Merged PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
+3. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5301321854) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+4. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5301004173) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+5. 🗣 Commented on [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731#issuecomment-5281887461) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
 <!--END_SECTION:activity-->
 
 ---
