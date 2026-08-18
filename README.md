@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39225](https://github.com/apache/shardingsphere/pull/39225) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
-2. 🗣 Commented on [#2522](https://github.com/swiftlang/sourcekit-lsp/issues/2522#issuecomment-5329559169) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-3. 🎉 Merged PR [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-4. 🎉 Merged PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
-5. 🗣 Commented on [#39225](https://github.com/apache/shardingsphere/pull/39225#issuecomment-5301321854) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+1. 💪 Opened PR [#2752](https://github.com/swiftlang/sourcekit-lsp/pull/2752) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. ❌ Closed PR [#39225](https://github.com/apache/shardingsphere/pull/39225) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+3. 🗣 Commented on [#2522](https://github.com/swiftlang/sourcekit-lsp/issues/2522#issuecomment-5329559169) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+4. 🎉 Merged PR [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+5. 🎉 Merged PR [#314](https://github.com/jenkinsci/JiraTestResultReporter-plugin/pull/314) in [jenkinsci/JiraTestResultReporter-plugin](https://github.com/jenkinsci/JiraTestResultReporter-plugin)
 <!--END_SECTION:activity-->
 
 ---
