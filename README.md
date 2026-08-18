@@ -96,6 +96,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 |---|---|---|
 | **SourceKit-LSP** | Improved syntax highlighting token merging by preferring more specific semantic tokens over overlapping syntactic tokens, with regression test coverage. | [#2711](https://github.com/swiftlang/sourcekit-lsp/pull/2711) |
 | **SourceKit-LSP** | Implemented a syntax-based refactoring to swap binary expression operands with correct comparison operator inversion and added comprehensive test coverage. | [#2694](https://github.com/swiftlang/sourcekit-lsp/pull/2694) |
+| **SourceKit-LSP** | Added refactoring support to enable or disable Swift Testing and XCTest tests, with comprehensive edge-case coverage. | [#2731](https://github.com/swiftlang/sourcekit-lsp/pull/2731) |
 | **Swift Package Manager** | Improved `.artifactbundle` manifest diagnostics by reporting decoding context for invalid `info.json` fields and added regression test coverage for malformed manifests. | [#10213](https://github.com/swiftlang/swift-package-manager/pull/10213) |
 | **Swift Markdown** | Fixed HTML heading rendering to preserve nested inline markup such as links, emphasis, and inline code instead of stripping formatting. | [#280](https://github.com/swiftlang/swift-markdown/pull/280) |
 | **Swift Markdown** | Replaced recursive Markdown AST conversion with an iterative parser implementation, preventing stack overflows when parsing deeply nested Markdown documents. | [#276](https://github.com/swiftlang/swift-markdown/pull/276) |
