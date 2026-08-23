@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Blockchain-Research-Lab/.github/issues/5) in [Blockchain-Research-Lab/.github](https://github.com/Blockchain-Research-Lab/.github)
-2. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-3. 🔓 Reopened issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-4. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-5. ❗ Opened issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+1. 💪 Opened PR [#116](https://github.com/somiljain2006/SpaceHub-Backend/pull/116) in [somiljain2006/SpaceHub-Backend](https://github.com/somiljain2006/SpaceHub-Backend)
+2. 🔒 Closed issue [#5](https://github.com/Blockchain-Research-Lab/.github/issues/5) in [Blockchain-Research-Lab/.github](https://github.com/Blockchain-Research-Lab/.github)
+3. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+4. 🔓 Reopened issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+5. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
 <!--END_SECTION:activity-->
 
 ---
