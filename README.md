@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2754](https://github.com/swiftlang/sourcekit-lsp/pull/2754) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-2. ❌ Closed PR [#2752](https://github.com/swiftlang/sourcekit-lsp/pull/2752) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-3. 🗣 Commented on [#2890](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2890#issuecomment-5337306766) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 💪 Opened PR [#2752](https://github.com/swiftlang/sourcekit-lsp/pull/2752) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-5. ❌ Closed PR [#39225](https://github.com/apache/shardingsphere/pull/39225) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
+1. 🔒 Closed issue [#5](https://github.com/Blockchain-Research-Lab/.github/issues/5) in [Blockchain-Research-Lab/.github](https://github.com/Blockchain-Research-Lab/.github)
+2. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+3. 🔓 Reopened issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+4. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+5. ❗ Opened issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
 <!--END_SECTION:activity-->
 
 ---
