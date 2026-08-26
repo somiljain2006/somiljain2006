@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
-2. 💪 Opened PR [#51460](https://github.com/spring-projects/spring-boot/pull/51460) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-3. 💪 Opened PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
-4. 🎉 Merged PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
-5. 💪 Opened PR [#116](https://github.com/somiljain2006/SpaceHub-Backend/pull/116) in [somiljain2006/SpaceHub-Backend](https://github.com/somiljain2006/SpaceHub-Backend)
+1. 🗣 Commented on [#20068](https://github.com/crate/crate/pull/20068#issuecomment-5426309753) in [crate/crate](https://github.com/crate/crate)
+2. 🎉 Merged PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
+3. 💪 Opened PR [#51460](https://github.com/spring-projects/spring-boot/pull/51460) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+4. 💪 Opened PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
+5. 🎉 Merged PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
 <!--END_SECTION:activity-->
 
 ---
