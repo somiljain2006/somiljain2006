@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
-2. 🎉 Merged PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
-3. 💪 Opened PR [#116](https://github.com/somiljain2006/SpaceHub-Backend/pull/116) in [somiljain2006/SpaceHub-Backend](https://github.com/somiljain2006/SpaceHub-Backend)
-4. 🔒 Closed issue [#5](https://github.com/Blockchain-Research-Lab/.github/issues/5) in [Blockchain-Research-Lab/.github](https://github.com/Blockchain-Research-Lab/.github)
-5. 🔒 Closed issue [#1](https://github.com/somiljain2006/GitGud/issues/1) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+1. 💪 Opened PR [#51460](https://github.com/spring-projects/spring-boot/pull/51460) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+2. 💪 Opened PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
+3. 🎉 Merged PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
+4. 💪 Opened PR [#116](https://github.com/somiljain2006/SpaceHub-Backend/pull/116) in [somiljain2006/SpaceHub-Backend](https://github.com/somiljain2006/SpaceHub-Backend)
+5. 🔒 Closed issue [#5](https://github.com/Blockchain-Research-Lab/.github/issues/5) in [Blockchain-Research-Lab/.github](https://github.com/Blockchain-Research-Lab/.github)
 <!--END_SECTION:activity-->
 
 ---
