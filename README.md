@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20068](https://github.com/crate/crate/pull/20068#issuecomment-5426309753) in [crate/crate](https://github.com/crate/crate)
-2. 🎉 Merged PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
-3. 💪 Opened PR [#51460](https://github.com/spring-projects/spring-boot/pull/51460) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-4. 💪 Opened PR [#20068](https://github.com/crate/crate/pull/20068) in [crate/crate](https://github.com/crate/crate)
-5. 🎉 Merged PR [#19823](https://github.com/crate/crate/pull/19823) in [crate/crate](https://github.com/crate/crate)
+1. 💪 Opened PR [#51473](https://github.com/spring-projects/spring-boot/pull/51473) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+2. ❌ Closed PR [#15925](https://github.com/apache/dubbo/pull/15925) in [apache/dubbo](https://github.com/apache/dubbo)
+3. ❌ Closed PR [#15888](https://github.com/apache/dubbo/pull/15888) in [apache/dubbo](https://github.com/apache/dubbo)
+4. 💪 Opened PR [#51469](https://github.com/spring-projects/spring-boot/pull/51469) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+5. 🗣 Commented on [#20068](https://github.com/crate/crate/pull/20068#issuecomment-5426309753) in [crate/crate](https://github.com/crate/crate)
 <!--END_SECTION:activity-->
 
 ---
