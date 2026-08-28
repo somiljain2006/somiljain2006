@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20079](https://github.com/crate/crate/pull/20079) in [crate/crate](https://github.com/crate/crate)
-2. 💪 Opened PR [#51485](https://github.com/spring-projects/spring-boot/pull/51485) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-3. 💪 Opened PR [#51473](https://github.com/spring-projects/spring-boot/pull/51473) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-4. ❌ Closed PR [#15925](https://github.com/apache/dubbo/pull/15925) in [apache/dubbo](https://github.com/apache/dubbo)
-5. ❌ Closed PR [#15888](https://github.com/apache/dubbo/pull/15888) in [apache/dubbo](https://github.com/apache/dubbo)
+1. 💪 Opened PR [#2895](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2895) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#20079](https://github.com/crate/crate/pull/20079) in [crate/crate](https://github.com/crate/crate)
+3. 💪 Opened PR [#51485](https://github.com/spring-projects/spring-boot/pull/51485) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+4. 💪 Opened PR [#51473](https://github.com/spring-projects/spring-boot/pull/51473) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+5. ❌ Closed PR [#15925](https://github.com/apache/dubbo/pull/15925) in [apache/dubbo](https://github.com/apache/dubbo)
 <!--END_SECTION:activity-->
 
 ---
