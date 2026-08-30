@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51497](https://github.com/spring-projects/spring-boot/pull/51497) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
-2. 🗣 Commented on [#1660](https://github.com/apple/container/pull/1660#issuecomment-5450472175) in [apple/container](https://github.com/apple/container)
-3. 💪 Opened PR [#2895](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2895) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 💪 Opened PR [#20079](https://github.com/crate/crate/pull/20079) in [crate/crate](https://github.com/crate/crate)
-5. 💪 Opened PR [#51485](https://github.com/spring-projects/spring-boot/pull/51485) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+1. 🎉 Merged PR [#2895](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2895) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#51497](https://github.com/spring-projects/spring-boot/pull/51497) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+3. 🗣 Commented on [#1660](https://github.com/apple/container/pull/1660#issuecomment-5450472175) in [apple/container](https://github.com/apple/container)
+4. 💪 Opened PR [#2895](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2895) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 💪 Opened PR [#20079](https://github.com/crate/crate/pull/20079) in [crate/crate](https://github.com/crate/crate)
 <!--END_SECTION:activity-->
 
 ---
