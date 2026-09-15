@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5](https://github.com/somiljain2006/GitGud/issues/5) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-2. ❗ Opened issue [#5](https://github.com/somiljain2006/GitGud/issues/5) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-3. ℹ️ Labeled issue [#4](https://github.com/somiljain2006/GitGud/issues/4) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-4. ❗ Opened issue [#4](https://github.com/somiljain2006/GitGud/issues/4) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-5. ℹ️ Labeled issue [#3](https://github.com/somiljain2006/GitGud/issues/3) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+1. 🗣 Commented on [#2754](https://github.com/swiftlang/sourcekit-lsp/pull/2754#issuecomment-5686315059) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. ℹ️ Labeled issue [#5](https://github.com/somiljain2006/GitGud/issues/5) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+3. ❗ Opened issue [#5](https://github.com/somiljain2006/GitGud/issues/5) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+4. ℹ️ Labeled issue [#4](https://github.com/somiljain2006/GitGud/issues/4) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+5. ❗ Opened issue [#4](https://github.com/somiljain2006/GitGud/issues/4) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
 <!--END_SECTION:activity-->
 
 ---
