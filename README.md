@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#897](https://github.com/cedana/cedana/pull/897) in [cedana/cedana](https://github.com/cedana/cedana)
-2. 🗣 Commented on [#20288](https://github.com/crate/crate/pull/20288#issuecomment-5895999523) in [crate/crate](https://github.com/crate/crate)
-3. ❌ Closed PR [#20288](https://github.com/crate/crate/pull/20288) in [crate/crate](https://github.com/crate/crate)
-4. 💪 Opened PR [#20293](https://github.com/crate/crate/pull/20293) in [crate/crate](https://github.com/crate/crate)
-5. 💪 Opened PR [#10687](https://github.com/medplum/medplum/pull/10687) in [medplum/medplum](https://github.com/medplum/medplum)
+1. 💪 Opened PR [#2910](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2910) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#979](https://github.com/apple/swift-argument-parser/pull/979) in [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser)
+3. 💪 Opened PR [#897](https://github.com/cedana/cedana/pull/897) in [cedana/cedana](https://github.com/cedana/cedana)
+4. 🗣 Commented on [#20288](https://github.com/crate/crate/pull/20288#issuecomment-5895999523) in [crate/crate](https://github.com/crate/crate)
+5. ❌ Closed PR [#20288](https://github.com/crate/crate/pull/20288) in [crate/crate](https://github.com/crate/crate)
 <!--END_SECTION:activity-->
 
 ---
