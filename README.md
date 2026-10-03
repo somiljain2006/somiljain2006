@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150272](https://github.com/elastic/elasticsearch/pull/150272) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-2. 💪 Opened PR [#2911](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2911) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 💪 Opened PR [#927](https://github.com/jenkins-infra/update-center2/pull/927) in [jenkins-infra/update-center2](https://github.com/jenkins-infra/update-center2)
-4. 🗣 Commented on [#2463](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2463#issuecomment-5941291960) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🗣 Commented on [#2524](https://github.com/jenkinsci/configuration-as-code-plugin/issues/2524#issuecomment-5941146668) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🗣 Commented on [#1586](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1586#issuecomment-5964204734) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. ❌ Closed PR [#927](https://github.com/jenkins-infra/update-center2/pull/927) in [jenkins-infra/update-center2](https://github.com/jenkins-infra/update-center2)
+3. 🎉 Merged PR [#150272](https://github.com/elastic/elasticsearch/pull/150272) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+4. 💪 Opened PR [#2911](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2911) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 💪 Opened PR [#927](https://github.com/jenkins-infra/update-center2/pull/927) in [jenkins-infra/update-center2](https://github.com/jenkins-infra/update-center2)
 <!--END_SECTION:activity-->
 
 ---
