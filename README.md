@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160972](https://github.com/elastic/elasticsearch/pull/160972#issuecomment-5989425920) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-2. 💪 Opened PR [#2658](https://github.com/jenkinsci/job-dsl-plugin/pull/2658) in [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)
-3. 🗣 Commented on [#1360](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1360#issuecomment-5983790163) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#1371](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1371#issuecomment-5983647807) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 🗣 Commented on [#1418](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1418#issuecomment-5983628401) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 🎉 Merged PR [#2762](https://github.com/swiftlang/sourcekit-lsp/pull/2762) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+2. 💪 Opened PR [#3758](https://github.com/apple/swift-nio/pull/3758) in [apple/swift-nio](https://github.com/apple/swift-nio)
+3. 💪 Opened PR [#2912](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2912) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 🗣 Commented on [#160972](https://github.com/elastic/elasticsearch/pull/160972#issuecomment-5989425920) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+5. 💪 Opened PR [#2658](https://github.com/jenkinsci/job-dsl-plugin/pull/2658) in [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)
 <!--END_SECTION:activity-->
 
 ---
