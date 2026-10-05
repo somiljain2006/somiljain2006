@@ -96,6 +96,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **SourceKit-LSP** | Fixed raw string literal delimiter minimization to preserve syntax and represented values across quotes, backslashes, interpolations, and escape sequences. | [#2762](https://github.com/swiftlang/sourcekit-lsp/pull/2762) |
 | **SourceKit-LSP** | Added inline variable refactoring for local `let` declarations with lexical lookup. | [#2754](https://github.com/swiftlang/sourcekit-lsp/pull/2754) |
 | **SourceKit-LSP** | Improved syntax highlighting token merging by preferring more specific semantic tokens over overlapping syntactic tokens, with regression test coverage. | [#2711](https://github.com/swiftlang/sourcekit-lsp/pull/2711) |
 | **SourceKit-LSP** | Implemented a syntax-based refactoring to swap binary expression operands with correct comparison operator inversion and added comprehensive test coverage. | [#2694](https://github.com/swiftlang/sourcekit-lsp/pull/2694) |
