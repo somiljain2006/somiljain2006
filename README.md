@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6005812855) in [medplum/medplum](https://github.com/medplum/medplum)
-2. 💪 Opened PR [#10794](https://github.com/medplum/medplum/pull/10794) in [medplum/medplum](https://github.com/medplum/medplum)
-3. ❌ Closed PR [#10687](https://github.com/medplum/medplum/pull/10687) in [medplum/medplum](https://github.com/medplum/medplum)
-4. 🗣 Commented on [#10687](https://github.com/medplum/medplum/pull/10687#issuecomment-6005270726) in [medplum/medplum](https://github.com/medplum/medplum)
-5. 💪 Opened PR [#2789](https://github.com/swiftlang/sourcekit-lsp/pull/2789) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
+1. 💪 Opened PR [#27692](https://github.com/influxdata/influxdb/pull/27692) in [influxdata/influxdb](https://github.com/influxdata/influxdb)
+2. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6013379464) in [medplum/medplum](https://github.com/medplum/medplum)
+3. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6013327024) in [medplum/medplum](https://github.com/medplum/medplum)
+4. 🗣 Commented on [#2912](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2912#issuecomment-6012598244) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6005812855) in [medplum/medplum](https://github.com/medplum/medplum)
 <!--END_SECTION:activity-->
 
 ---
