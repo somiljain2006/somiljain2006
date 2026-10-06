@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2762](https://github.com/swiftlang/sourcekit-lsp/pull/2762) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
-2. 💪 Opened PR [#3758](https://github.com/apple/swift-nio/pull/3758) in [apple/swift-nio](https://github.com/apple/swift-nio)
-3. 💪 Opened PR [#2912](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2912) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 🗣 Commented on [#160972](https://github.com/elastic/elasticsearch/pull/160972#issuecomment-5989425920) in [elastic/elasticsearch](https://github.com/elastic/elasticsearch)
-5. 💪 Opened PR [#2658](https://github.com/jenkinsci/job-dsl-plugin/pull/2658) in [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin)
+1. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6005812855) in [medplum/medplum](https://github.com/medplum/medplum)
+2. 💪 Opened PR [#10794](https://github.com/medplum/medplum/pull/10794) in [medplum/medplum](https://github.com/medplum/medplum)
+3. ❌ Closed PR [#10687](https://github.com/medplum/medplum/pull/10687) in [medplum/medplum](https://github.com/medplum/medplum)
+4. 🗣 Commented on [#10687](https://github.com/medplum/medplum/pull/10687#issuecomment-6005270726) in [medplum/medplum](https://github.com/medplum/medplum)
+5. 💪 Opened PR [#2789](https://github.com/swiftlang/sourcekit-lsp/pull/2789) in [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp)
 <!--END_SECTION:activity-->
 
 ---
