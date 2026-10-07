@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-2. ❗ Opened issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-3. 🗣 Commented on [#1305](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1305#issuecomment-6034098219) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. 💪 Opened PR [#27692](https://github.com/influxdata/influxdb/pull/27692) in [influxdata/influxdb](https://github.com/influxdata/influxdb)
-5. 🗣 Commented on [#10794](https://github.com/medplum/medplum/pull/10794#issuecomment-6013379464) in [medplum/medplum](https://github.com/medplum/medplum)
+1. ❌ Closed PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
+2. 💪 Opened PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
+3. ℹ️ Labeled issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+4. ❗ Opened issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+5. 🗣 Commented on [#1305](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1305#issuecomment-6034098219) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
