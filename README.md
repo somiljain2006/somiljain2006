@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-2. ❌ Closed PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
-3. 💪 Opened PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
-4. ℹ️ Labeled issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-5. ❗ Opened issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+1. 💪 Opened PR [#2914](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2914) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#77](https://github.com/jenkinsci/update-sites-manager-plugin/pull/77) in [jenkinsci/update-sites-manager-plugin](https://github.com/jenkinsci/update-sites-manager-plugin)
+3. 💪 Opened PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+4. ❌ Closed PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
+5. 💪 Opened PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
 <!--END_SECTION:activity-->
 
 ---
