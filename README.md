@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
-2. 💪 Opened PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
-3. ℹ️ Labeled issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-4. ❗ Opened issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
-5. 🗣 Commented on [#1305](https://github.com/jenkinsci/configuration-as-code-plugin/issues/1305#issuecomment-6034098219) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. 💪 Opened PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+2. ❌ Closed PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
+3. 💪 Opened PR [#2177](https://github.com/apple/swift-protobuf/pull/2177) in [apple/swift-protobuf](https://github.com/apple/swift-protobuf)
+4. ℹ️ Labeled issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
+5. ❗ Opened issue [#6](https://github.com/somiljain2006/GitGud/issues/6) in [somiljain2006/GitGud](https://github.com/somiljain2006/GitGud)
 <!--END_SECTION:activity-->
 
 ---
