@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#282](https://github.com/LuxAlgo/Vela/pull/282) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
-2. 🗣 Commented on [#282](https://github.com/LuxAlgo/Vela/pull/282#issuecomment-6122511598) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
-3. 🗣 Commented on [#282](https://github.com/LuxAlgo/Vela/pull/282#issuecomment-6122507653) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
-4. 💪 Opened PR [#282](https://github.com/LuxAlgo/Vela/pull/282) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
-5. 💪 Opened PR [#2914](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2914) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+1. ❌ Closed PR [#14191](https://github.com/apple/foundationdb/pull/14191) in [apple/foundationdb](https://github.com/apple/foundationdb)
+2. 💪 Opened PR [#283](https://github.com/LuxAlgo/Vela/pull/283) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
+3. 🎉 Merged PR [#282](https://github.com/LuxAlgo/Vela/pull/282) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
+4. 🗣 Commented on [#282](https://github.com/LuxAlgo/Vela/pull/282#issuecomment-6122511598) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
+5. 🗣 Commented on [#282](https://github.com/LuxAlgo/Vela/pull/282#issuecomment-6122507653) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
 <!--END_SECTION:activity-->
 
 ---
