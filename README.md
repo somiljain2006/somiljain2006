@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
-2. 🗣 Commented on [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316#issuecomment-6152461236) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-3. 🎉 Merged PR [#2914](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2914) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-4. ❌ Closed PR [#14191](https://github.com/apple/foundationdb/pull/14191) in [apple/foundationdb](https://github.com/apple/foundationdb)
-5. 💪 Opened PR [#283](https://github.com/LuxAlgo/Vela/pull/283) in [LuxAlgo/Vela](https://github.com/LuxAlgo/Vela)
+1. 💪 Opened PR [#65866](https://github.com/camunda/camunda/pull/65866) in [camunda/camunda](https://github.com/camunda/camunda)
+2. 💪 Opened PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
+3. 🗣 Commented on [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316#issuecomment-6152461236) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+4. 🎉 Merged PR [#2914](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2914) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+5. ❌ Closed PR [#14191](https://github.com/apple/foundationdb/pull/14191) in [apple/foundationdb](https://github.com/apple/foundationdb)
 <!--END_SECTION:activity-->
 
 ---
