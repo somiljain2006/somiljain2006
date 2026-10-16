@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6217535436) in [crate/crate](https://github.com/crate/crate)
-2. 💪 Opened PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-3. 💪 Opened PR [#15437](https://github.com/sanity-io/sanity/pull/15437) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
-4. 💪 Opened PR [#65866](https://github.com/camunda/camunda/pull/65866) in [camunda/camunda](https://github.com/camunda/camunda)
-5. 💪 Opened PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
+1. 💪 Opened PR [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+2. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6217535436) in [crate/crate](https://github.com/crate/crate)
+3. 💪 Opened PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+4. 💪 Opened PR [#15437](https://github.com/sanity-io/sanity/pull/15437) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+5. 💪 Opened PR [#65866](https://github.com/camunda/camunda/pull/65866) in [camunda/camunda](https://github.com/camunda/camunda)
 <!--END_SECTION:activity-->
 
 ---
