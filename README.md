@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65866](https://github.com/camunda/camunda/pull/65866) in [camunda/camunda](https://github.com/camunda/camunda)
-2. 💪 Opened PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
-3. 🗣 Commented on [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316#issuecomment-6152461236) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-4. 🎉 Merged PR [#2914](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2914) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. ❌ Closed PR [#14191](https://github.com/apple/foundationdb/pull/14191) in [apple/foundationdb](https://github.com/apple/foundationdb)
+1. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6217535436) in [crate/crate](https://github.com/crate/crate)
+2. 💪 Opened PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+3. 💪 Opened PR [#15437](https://github.com/sanity-io/sanity/pull/15437) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+4. 💪 Opened PR [#65866](https://github.com/camunda/camunda/pull/65866) in [camunda/camunda](https://github.com/camunda/camunda)
+5. 💪 Opened PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
 <!--END_SECTION:activity-->
 
 ---
