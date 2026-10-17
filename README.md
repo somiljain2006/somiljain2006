@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#896](https://github.com/elevenlabs/elevenlabs-python/pull/896) in [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)
-2. 💪 Opened PR [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-3. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6217535436) in [crate/crate](https://github.com/crate/crate)
-4. 💪 Opened PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
-5. 💪 Opened PR [#15437](https://github.com/sanity-io/sanity/pull/15437) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+1. ❌ Closed PR [#896](https://github.com/elevenlabs/elevenlabs-python/pull/896) in [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)
+2. 💪 Opened PR [#896](https://github.com/elevenlabs/elevenlabs-python/pull/896) in [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)
+3. 💪 Opened PR [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+4. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6217535436) in [crate/crate](https://github.com/crate/crate)
+5. 💪 Opened PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
 <!--END_SECTION:activity-->
 
 ---
