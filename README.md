@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6299472630) in [crate/crate](https://github.com/crate/crate)
-2. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6296690486) in [crate/crate](https://github.com/crate/crate)
-3. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6284869796) in [crate/crate](https://github.com/crate/crate)
-4. 🎉 Merged PR [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
-5. ❌ Closed PR [#896](https://github.com/elevenlabs/elevenlabs-python/pull/896) in [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)
+1. 🎉 Merged PR [#20153](https://github.com/crate/crate/pull/20153) in [crate/crate](https://github.com/crate/crate)
+2. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6299472630) in [crate/crate](https://github.com/crate/crate)
+3. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6296690486) in [crate/crate](https://github.com/crate/crate)
+4. 🗣 Commented on [#20153](https://github.com/crate/crate/pull/20153#issuecomment-6284869796) in [crate/crate](https://github.com/crate/crate)
+5. 🎉 Merged PR [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) in [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
 <!--END_SECTION:activity-->
 
 ---
