@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1064](https://github.com/Baseflow/flutter_cached_network_image/pull/1064) in [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image)
-2. 💪 Opened PR [#18738](https://github.com/apache/dolphinscheduler/pull/18738) in [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler)
-3. 💪 Opened PR [#19983](https://github.com/spring-projects/spring-security/pull/19983) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
-4. 💪 Opened PR [#439](https://github.com/0gfoundation/0g-storage-node/pull/439) in [0gfoundation/0g-storage-node](https://github.com/0gfoundation/0g-storage-node)
-5. 💪 Opened PR [#7648](https://github.com/reflex-dev/reflex/pull/7648) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+1. ❌ Closed PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
+2. 💪 Opened PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
+3. 🗣 Commented on [#17258](https://github.com/Arize-ai/phoenix/pull/17258#issuecomment-6410833695) in [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
+4. 💪 Opened PR [#17258](https://github.com/Arize-ai/phoenix/pull/17258) in [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
+5. 💪 Opened PR [#1064](https://github.com/Baseflow/flutter_cached_network_image/pull/1064) in [Baseflow/flutter_cached_network_image](https://github.com/Baseflow/flutter_cached_network_image)
 <!--END_SECTION:activity-->
 
 ---
