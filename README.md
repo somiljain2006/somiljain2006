@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7706](https://github.com/akuity/kargo/pull/7706) in [akuity/kargo](https://github.com/akuity/kargo)
-2. ❌ Closed PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
-3. 💪 Opened PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
-4. 🗣 Commented on [#17258](https://github.com/Arize-ai/phoenix/pull/17258#issuecomment-6410833695) in [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
-5. 💪 Opened PR [#17258](https://github.com/Arize-ai/phoenix/pull/17258) in [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
+1. 💪 Opened PR [#7747](https://github.com/akuity/kargo/pull/7747) in [akuity/kargo](https://github.com/akuity/kargo)
+2. 💪 Opened PR [#7706](https://github.com/akuity/kargo/pull/7706) in [akuity/kargo](https://github.com/akuity/kargo)
+3. ❌ Closed PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
+4. 💪 Opened PR [#7705](https://github.com/akuity/kargo/pull/7705) in [akuity/kargo](https://github.com/akuity/kargo)
+5. 🗣 Commented on [#17258](https://github.com/Arize-ai/phoenix/pull/17258#issuecomment-6410833695) in [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 <!--END_SECTION:activity-->
 
 ---
