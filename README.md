@@ -74,6 +74,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Swift Markdown** | Fixed HTML escaping in the HTML formatter to prevent text, inline code, and code blocks from being interpreted as HTML tags during rendering. | [#274](https://github.com/swiftlang/swift-markdown/pull/274) |
 | **Swift SourceKit-LSP** | Added a relatedIdentifiers fallback to resolve local variable and parameter references when indexed references are unavailable. | [#2679](https://github.com/swiftlang/sourcekit-lsp/pull/2679) |
 | **Swift Corelibs Libdispatch** | Added a compile-time check for DragonFlyBSD timer support to prevent incorrect nanosecond timer behavior on platforms without `NOTE_NSECONDS`. | [#948](https://github.com/swiftlang/swift-corelibs-libdispatch/pull/948) |
+| **LanceDB** | Implemented remote `drop_all_tables()` support, including namespace tables, pagination, and error handling. | [#4528](https://github.com/lancedb/lancedb/pull/4528) |
 | **LuxAlgo Vela** | Fixed arrow-mark label positioning to prevent overlap with arrow glyphs. | [#282](https://github.com/LuxAlgo/Vela/pull/282) |
 | **Spring Boot** | Fixed OTLP property fallback handling to align logging and tracing configuration resolution across common and signal-specific properties. | [#50461](https://github.com/spring-projects/spring-boot/pull/50461) |
 | **Elasticsearch** | Configured failure store indices with `index.auto_expand_replicas=0-1` by default. | [#150272](https://github.com/elastic/elasticsearch/pull/150272) |
