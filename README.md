@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
-2. 💪 Opened PR [#20806](https://github.com/apache/druid/pull/20806) in [apache/druid](https://github.com/apache/druid)
-3. 💪 Opened PR [#7283](https://github.com/spring-projects/spring-ai/pull/7283) in [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)
-4. 🗣 Commented on [#1](https://github.com/somiljain2006/flowable-engine/pull/1#issuecomment-6508414301) in [somiljain2006/flowable-engine](https://github.com/somiljain2006/flowable-engine)
-5. 💪 Opened PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
+1. 🗣 Commented on [#20806](https://github.com/apache/druid/pull/20806#issuecomment-6656035880) in [apache/druid](https://github.com/apache/druid)
+2. 🎉 Merged PR [#4528](https://github.com/lancedb/lancedb/pull/4528) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
+3. 💪 Opened PR [#20806](https://github.com/apache/druid/pull/20806) in [apache/druid](https://github.com/apache/druid)
+4. 💪 Opened PR [#7283](https://github.com/spring-projects/spring-ai/pull/7283) in [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai)
+5. 🗣 Commented on [#1](https://github.com/somiljain2006/flowable-engine/pull/1#issuecomment-6508414301) in [somiljain2006/flowable-engine](https://github.com/somiljain2006/flowable-engine)
 <!--END_SECTION:activity-->
 
 ---
