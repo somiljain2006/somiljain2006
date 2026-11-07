@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5650](https://github.com/softwaremill/tapir/pull/5650) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
-2. 💪 Opened PR [#15793](https://github.com/sanity-io/sanity/pull/15793) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
-3. 💪 Opened PR [#4894](https://github.com/lancedb/lancedb/pull/4894) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
-4. 💪 Opened PR [#7756](https://github.com/reflex-dev/reflex/pull/7756) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🗣 Commented on [#10549](https://github.com/tursodatabase/turso/pull/10549#issuecomment-6675779082) in [tursodatabase/turso](https://github.com/tursodatabase/turso)
+1. 💪 Opened PR [#4419](https://github.com/spring-projects/spring-data-jpa/pull/4419) in [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)
+2. 💪 Opened PR [#5650](https://github.com/softwaremill/tapir/pull/5650) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
+3. 💪 Opened PR [#15793](https://github.com/sanity-io/sanity/pull/15793) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+4. 💪 Opened PR [#4894](https://github.com/lancedb/lancedb/pull/4894) in [lancedb/lancedb](https://github.com/lancedb/lancedb)
+5. 💪 Opened PR [#7756](https://github.com/reflex-dev/reflex/pull/7756) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
 <!--END_SECTION:activity-->
 
 ---
