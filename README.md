@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17470](https://github.com/argoproj/argo-workflows/pull/17470) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
-2. 💪 Opened PR [#17470](https://github.com/argoproj/argo-workflows/pull/17470) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
-3. 💪 Opened PR [#4419](https://github.com/spring-projects/spring-data-jpa/pull/4419) in [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)
-4. 💪 Opened PR [#5650](https://github.com/softwaremill/tapir/pull/5650) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
-5. 💪 Opened PR [#15793](https://github.com/sanity-io/sanity/pull/15793) in [sanity-io/sanity](https://github.com/sanity-io/sanity)
+1. 💪 Opened PR [#17471](https://github.com/argoproj/argo-workflows/pull/17471) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+2. ❌ Closed PR [#17470](https://github.com/argoproj/argo-workflows/pull/17470) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+3. 💪 Opened PR [#17470](https://github.com/argoproj/argo-workflows/pull/17470) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+4. 💪 Opened PR [#4419](https://github.com/spring-projects/spring-data-jpa/pull/4419) in [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)
+5. 💪 Opened PR [#5650](https://github.com/softwaremill/tapir/pull/5650) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
 <!--END_SECTION:activity-->
 
 ---
