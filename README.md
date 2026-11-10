@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3472](https://github.com/authzed/spicedb/pull/3472#issuecomment-6749128671) in [authzed/spicedb](https://github.com/authzed/spicedb)
-2. 🗣 Commented on [#3472](https://github.com/authzed/spicedb/pull/3472#issuecomment-6749123162) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. 💪 Opened PR [#3472](https://github.com/authzed/spicedb/pull/3472) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 💪 Opened PR [#17471](https://github.com/argoproj/argo-workflows/pull/17471) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
-5. ❌ Closed PR [#17470](https://github.com/argoproj/argo-workflows/pull/17470) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+1. 🗣 Commented on [#20806](https://github.com/apache/druid/pull/20806#issuecomment-6759332080) in [apache/druid](https://github.com/apache/druid)
+2. 🗣 Commented on [#3472](https://github.com/authzed/spicedb/pull/3472#issuecomment-6749128671) in [authzed/spicedb](https://github.com/authzed/spicedb)
+3. 🗣 Commented on [#3472](https://github.com/authzed/spicedb/pull/3472#issuecomment-6749123162) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. 💪 Opened PR [#3472](https://github.com/authzed/spicedb/pull/3472) in [authzed/spicedb](https://github.com/authzed/spicedb)
+5. 💪 Opened PR [#17471](https://github.com/argoproj/argo-workflows/pull/17471) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
 <!--END_SECTION:activity-->
 
 ---
