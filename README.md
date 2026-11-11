@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3665](https://github.com/wiremock/wiremock/pull/3665) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
-2. 🎉 Merged PR [#7756](https://github.com/reflex-dev/reflex/pull/7756) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 💪 Opened PR [#47932](https://github.com/renovatebot/renovate/pull/47932) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-4. 💪 Opened PR [#39769](https://github.com/gradle/gradle/pull/39769) in [gradle/gradle](https://github.com/gradle/gradle)
-5. 🗣 Commented on [#20806](https://github.com/apache/druid/pull/20806#issuecomment-6759332080) in [apache/druid](https://github.com/apache/druid)
+1. 🗣 Commented on [#3665](https://github.com/wiremock/wiremock/pull/3665#issuecomment-6797169411) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
+2. 🎉 Merged PR [#17471](https://github.com/argoproj/argo-workflows/pull/17471) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+3. 💪 Opened PR [#3665](https://github.com/wiremock/wiremock/pull/3665) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
+4. 🎉 Merged PR [#7756](https://github.com/reflex-dev/reflex/pull/7756) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 💪 Opened PR [#47932](https://github.com/renovatebot/renovate/pull/47932) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!--END_SECTION:activity-->
 
 ---
