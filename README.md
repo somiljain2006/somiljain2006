@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#430](https://github.com/wiremock/wiremock.org/pull/430) in [wiremock/wiremock.org](https://github.com/wiremock/wiremock.org)
-2. 🗣 Commented on [#3665](https://github.com/wiremock/wiremock/pull/3665#issuecomment-6848606728) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
-3. 🎉 Merged PR [#20806](https://github.com/apache/druid/pull/20806) in [apache/druid](https://github.com/apache/druid)
-4. 💪 Opened PR [#7870](https://github.com/reflex-dev/reflex/pull/7870) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-5. 🎉 Merged PR [#3665](https://github.com/wiremock/wiremock/pull/3665) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
+1. 🗣 Commented on [#5650](https://github.com/softwaremill/tapir/pull/5650#issuecomment-6859538729) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
+2. 🗣 Commented on [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316#issuecomment-6856596095) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+3. 🎉 Merged PR [#430](https://github.com/wiremock/wiremock.org/pull/430) in [wiremock/wiremock.org](https://github.com/wiremock/wiremock.org)
+4. 💪 Opened PR [#430](https://github.com/wiremock/wiremock.org/pull/430) in [wiremock/wiremock.org](https://github.com/wiremock/wiremock.org)
+5. 🗣 Commented on [#3665](https://github.com/wiremock/wiremock/pull/3665#issuecomment-6848606728) in [wiremock/wiremock](https://github.com/wiremock/wiremock)
 <!--END_SECTION:activity-->
 
 ---
