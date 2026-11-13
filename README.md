@@ -95,6 +95,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 | **Sonar Cryptography** | Fixed dictionary subscription resolution through function parameters, enabling correct lookup of cryptographic values. | [#457](https://github.com/cbomkit/sonar-cryptography/pull/457) |
 | **OpenTelemetry Java Instrumentation** | Updated JVM GC metrics instrumentation to always capture the `jvm.gc.cause` attribute under stable JVM semantic conventions. | [#18967](https://github.com/open-telemetry/opentelemetry-java-instrumentation/pull/18967) |
 | **assistant-ui** | Fixed intermittent coverage failures by isolating copy-prompt tests with fake timers. | [#9812](https://github.com/assistant-ui/assistant-ui/pull/9812) |
+| **WireMock Documentation** | Documented `captureAllHeaders` and `excludeHeaders` recording and snapshotting options in the Record and Playback guide. | [#430](https://github.com/wiremock/wiremock.org/pull/430) |
 
 <details>
 <summary><b>📦 View More Open Source Contributions</b></summary>
