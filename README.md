@@ -104,6 +104,7 @@ I actively contribute to open-source projects across the **Apache, Swift, and Je
 
 | Project | Contribution | PR |
 |---|---|---|
+| **Reflex** | Optimized dynamic JavaScript execution to enable frontend minification, reducing the shared bundle by ~88 KB (11 KB gzipped), with isolated execution scopes. | [#7870](https://github.com/reflex-dev/reflex/pull/7870) |
 | **Reflex** | Added built-in SQLAlchemy `DeclarativeBase` serialization, safely handling loaded relationships, unloaded attributes, and `synonym()` fields. | [#7756](https://github.com/reflex-dev/reflex/pull/7756) |
 | **SourceKit-LSP** | Fixed raw string literal delimiter minimization to preserve syntax and represented values across quotes, backslashes, interpolations, and escape sequences. | [#2762](https://github.com/swiftlang/sourcekit-lsp/pull/2762) |
 | **SourceKit-LSP** | Added inline variable refactoring for local `let` declarations with lexical lookup. | [#2754](https://github.com/swiftlang/sourcekit-lsp/pull/2754) |
