@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7899](https://github.com/reflex-dev/reflex/pull/7899) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-2. 💪 Opened PR [#11946](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11946) in [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
-3. 🎉 Merged PR [#7870](https://github.com/reflex-dev/reflex/pull/7870) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#20900](https://github.com/apache/druid/pull/20900) in [apache/druid](https://github.com/apache/druid)
-5. 🗣 Commented on [#5650](https://github.com/softwaremill/tapir/pull/5650#issuecomment-6859538729) in [softwaremill/tapir](https://github.com/softwaremill/tapir)
+1. 💪 Opened PR [#17505](https://github.com/argoproj/argo-workflows/pull/17505) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+2. 💪 Opened PR [#7899](https://github.com/reflex-dev/reflex/pull/7899) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#11946](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11946) in [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)
+4. 🎉 Merged PR [#7870](https://github.com/reflex-dev/reflex/pull/7870) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+5. 💪 Opened PR [#20900](https://github.com/apache/druid/pull/20900) in [apache/druid](https://github.com/apache/druid)
 <!--END_SECTION:activity-->
 
 ---
