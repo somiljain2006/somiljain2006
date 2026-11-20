@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1862](https://github.com/conductor-oss/conductor/pull/1862) in [conductor-oss/conductor](https://github.com/conductor-oss/conductor)
-2. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7009029484) in [crate/crate](https://github.com/crate/crate)
-3. 💪 Opened PR [#9657](https://github.com/getsentry/sentry-cocoa/pull/9657) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-4. 🎉 Merged PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-5. 💪 Opened PR [#17505](https://github.com/argoproj/argo-workflows/pull/17505) in [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows)
+1. 💪 Opened PR [#7601](https://github.com/paradedb/paradedb/pull/7601) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+2. 💪 Opened PR [#1862](https://github.com/conductor-oss/conductor/pull/1862) in [conductor-oss/conductor](https://github.com/conductor-oss/conductor)
+3. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7009029484) in [crate/crate](https://github.com/crate/crate)
+4. 💪 Opened PR [#9657](https://github.com/getsentry/sentry-cocoa/pull/9657) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+5. 🎉 Merged PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
 <!--END_SECTION:activity-->
 
 ---
