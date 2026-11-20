@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7601](https://github.com/paradedb/paradedb/pull/7601) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-2. 💪 Opened PR [#1862](https://github.com/conductor-oss/conductor/pull/1862) in [conductor-oss/conductor](https://github.com/conductor-oss/conductor)
-3. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7009029484) in [crate/crate](https://github.com/crate/crate)
-4. 💪 Opened PR [#9657](https://github.com/getsentry/sentry-cocoa/pull/9657) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
-5. 🎉 Merged PR [#9316](https://github.com/getsentry/sentry-cocoa/pull/9316) in [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa)
+1. 💪 Opened PR [#7948](https://github.com/reflex-dev/reflex/pull/7948) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+2. 🎉 Merged PR [#7899](https://github.com/reflex-dev/reflex/pull/7899) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+3. 💪 Opened PR [#3020](https://github.com/sodadata/soda-core/pull/3020) in [sodadata/soda-core](https://github.com/sodadata/soda-core)
+4. 💪 Opened PR [#7601](https://github.com/paradedb/paradedb/pull/7601) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+5. 💪 Opened PR [#1862](https://github.com/conductor-oss/conductor/pull/1862) in [conductor-oss/conductor](https://github.com/conductor-oss/conductor)
 <!--END_SECTION:activity-->
 
 ---
