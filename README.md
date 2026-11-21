@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20280](https://github.com/ckeditor/ckeditor5/pull/20280) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
-2. 💪 Opened PR [#7948](https://github.com/reflex-dev/reflex/pull/7948) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-3. 🎉 Merged PR [#7899](https://github.com/reflex-dev/reflex/pull/7899) in [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
-4. 💪 Opened PR [#3020](https://github.com/sodadata/soda-core/pull/3020) in [sodadata/soda-core](https://github.com/sodadata/soda-core)
-5. 💪 Opened PR [#7601](https://github.com/paradedb/paradedb/pull/7601) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+1. ❌ Closed PR [#16966](https://github.com/h2oai/h2o-3/pull/16966) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
+2. ℹ️ Reopened PR [#20280](https://github.com/ckeditor/ckeditor5/pull/20280) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+3. ❌ Closed PR [#20280](https://github.com/ckeditor/ckeditor5/pull/20280) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+4. 🎉 Merged PR [#7601](https://github.com/paradedb/paradedb/pull/7601) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+5. 💪 Opened PR [#16966](https://github.com/h2oai/h2o-3/pull/16966) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
 <!--END_SECTION:activity-->
 
 ---
