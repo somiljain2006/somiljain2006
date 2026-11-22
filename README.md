@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23768](https://github.com/netbox-community/netbox/pull/23768) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-2. 💪 Opened PR [#7622](https://github.com/paradedb/paradedb/pull/7622) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-3. 💪 Opened PR [#16967](https://github.com/h2oai/h2o-3/pull/16967) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
-4. ❌ Closed PR [#16966](https://github.com/h2oai/h2o-3/pull/16966) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
-5. ℹ️ Reopened PR [#20280](https://github.com/ckeditor/ckeditor5/pull/20280) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+1. 🗣 Commented on [#7622](https://github.com/paradedb/paradedb/pull/7622#issuecomment-7083126959) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+2. 💪 Opened PR [#23768](https://github.com/netbox-community/netbox/pull/23768) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+3. 💪 Opened PR [#7622](https://github.com/paradedb/paradedb/pull/7622) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+4. 💪 Opened PR [#16967](https://github.com/h2oai/h2o-3/pull/16967) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
+5. ❌ Closed PR [#16966](https://github.com/h2oai/h2o-3/pull/16966) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
 <!--END_SECTION:activity-->
 
 ---
