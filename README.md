@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7622](https://github.com/paradedb/paradedb/pull/7622#issuecomment-7083126959) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-2. 💪 Opened PR [#23768](https://github.com/netbox-community/netbox/pull/23768) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-3. 💪 Opened PR [#7622](https://github.com/paradedb/paradedb/pull/7622) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-4. 💪 Opened PR [#16967](https://github.com/h2oai/h2o-3/pull/16967) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
-5. ❌ Closed PR [#16966](https://github.com/h2oai/h2o-3/pull/16966) in [h2oai/h2o-3](https://github.com/h2oai/h2o-3)
+1. 🎉 Merged PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
+2. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7100813830) in [crate/crate](https://github.com/crate/crate)
+3. 💪 Opened PR [#7639](https://github.com/paradedb/paradedb/pull/7639) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+4. 🗣 Commented on [#7622](https://github.com/paradedb/paradedb/pull/7622#issuecomment-7083126959) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+5. 💪 Opened PR [#23768](https://github.com/netbox-community/netbox/pull/23768) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
 <!--END_SECTION:activity-->
 
 ---
