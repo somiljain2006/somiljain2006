@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
-2. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7100813830) in [crate/crate](https://github.com/crate/crate)
-3. 💪 Opened PR [#7639](https://github.com/paradedb/paradedb/pull/7639) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-4. 🗣 Commented on [#7622](https://github.com/paradedb/paradedb/pull/7622#issuecomment-7083126959) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
-5. 💪 Opened PR [#23768](https://github.com/netbox-community/netbox/pull/23768) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+1. 💪 Opened PR [#20283](https://github.com/ckeditor/ckeditor5/pull/20283) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+2. 🎉 Merged PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
+3. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7100813830) in [crate/crate](https://github.com/crate/crate)
+4. 💪 Opened PR [#7639](https://github.com/paradedb/paradedb/pull/7639) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
+5. 🗣 Commented on [#7622](https://github.com/paradedb/paradedb/pull/7622#issuecomment-7083126959) in [paradedb/paradedb](https://github.com/paradedb/paradedb)
 <!--END_SECTION:activity-->
 
 ---
