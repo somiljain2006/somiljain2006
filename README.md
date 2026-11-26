@@ -43,11 +43,11 @@ Currently, I work as a Software Developer at Software Incubator, where I develop
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20697](https://github.com/crate/crate/pull/20697) in [crate/crate](https://github.com/crate/crate)
-2. 💪 Opened PR [#23786](https://github.com/netbox-community/netbox/pull/23786) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
-3. 💪 Opened PR [#20283](https://github.com/ckeditor/ckeditor5/pull/20283) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
-4. 🎉 Merged PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
-5. 🗣 Commented on [#20505](https://github.com/crate/crate/pull/20505#issuecomment-7100813830) in [crate/crate](https://github.com/crate/crate)
+1. 🎉 Merged PR [#2917](https://github.com/jenkinsci/configuration-as-code-plugin/pull/2917) in [jenkinsci/configuration-as-code-plugin](https://github.com/jenkinsci/configuration-as-code-plugin)
+2. 💪 Opened PR [#20697](https://github.com/crate/crate/pull/20697) in [crate/crate](https://github.com/crate/crate)
+3. 💪 Opened PR [#23786](https://github.com/netbox-community/netbox/pull/23786) in [netbox-community/netbox](https://github.com/netbox-community/netbox)
+4. 💪 Opened PR [#20283](https://github.com/ckeditor/ckeditor5/pull/20283) in [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
+5. 🎉 Merged PR [#20505](https://github.com/crate/crate/pull/20505) in [crate/crate](https://github.com/crate/crate)
 <!--END_SECTION:activity-->
 
 ---
